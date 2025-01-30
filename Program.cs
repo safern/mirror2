@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace mirror1
 {
     class Program
